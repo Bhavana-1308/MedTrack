@@ -1,0 +1,6 @@
+{
+  "name": "MedTrack Java PBL Workbench",
+  "description": "Medicine Reminder and Management System built in Java Swing, MySQL, and JDBC with an interactive web simulator and complete source code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
